@@ -1,10 +1,9 @@
-
 project:
   type: website
-  output-dir: docs
+  output-dir: ../docs
 
 website:
-  title: "My First Quarto Website"
+  title: "My Quarto Cheatsheet"
 
 format:
   html:
